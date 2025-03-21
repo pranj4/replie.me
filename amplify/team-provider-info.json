@@ -10,6 +10,14 @@
       "StackName": "amplify-assignment-dev-a310e",
       "StackId": "arn:aws:cloudformation:us-east-1:471112739482:stack/amplify-assignment-dev-a310e/754a9c40-0611-11f0-9237-122e2f1fb2c5",
       "AmplifyAppId": "d2rvef6ic58mbe"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2rvef6ic58mbe",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
